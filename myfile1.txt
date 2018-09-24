@@ -1,3 +1,11 @@
 myfile1.txt
 
+<<<<<<< HEAD
 this file is modified in branch 1
+=======
+branch 2 - update 1
+
+branch 2 - update 2
+
+ again Modified myfile1.txt by master
+>>>>>>> master
