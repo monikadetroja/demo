@@ -1,3 +1,5 @@
 myfile1.txt
 
 branch 2
+
+modified myfile2.txt
